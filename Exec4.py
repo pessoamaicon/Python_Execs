@@ -1,5 +1,0 @@
-num1 = float(input("Informe a nota da av1:"))
-num2 = float(input("Informe a nota da av2:"))
-num3 = float(input("Informe a nota da av3:"))
-num4 = float(input("Informe a nota da av4:"))
-print("A média das notas é:", (num1+num2+num3+num4)/4)
